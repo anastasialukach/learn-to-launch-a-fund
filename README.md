@@ -1,4 +1,4 @@
-# Learn to Launch a Fund
+# Launch a VC Fund
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
